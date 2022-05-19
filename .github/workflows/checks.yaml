@@ -21,7 +21,7 @@ jobs:
 
     - name: "Setup npm"
       run: |
-        npm set @xcanchal:registry=https://npm.pkg.github.com/xcanchal
+        npm set @netosha:registry=https://npm.pkg.github.com/netosha
         npm set "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}"
 
     - name: Install dependencies
