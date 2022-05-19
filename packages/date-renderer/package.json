@@ -1,14 +1,11 @@
 {
-  "name": "@xcanchal/date-renderer",
-  "version": "1.1.8",
+  "name": "@netosha/date-renderer",
+  "version": "1.1.6",
   "description": "A package that prints the current date",
   "main": "index.js",
-  "repository": "https://github.com/xcanchal/monorepo",
+  "repository": "https://github.com/netosha/monorepo-test",
   "publishConfig": {
-    "@xcanchal:registry": "https://npm.pkg.github.com/xcanchal"
-  },
-  "dependencies": {
-    "@xcanchal/date-logic": "^3.1.1"
+    "@netosha:registry": "https://npm.pkg.github.com/netosha"
   },
   "scripts": {
     "test": "echo TESTS PASSED"
