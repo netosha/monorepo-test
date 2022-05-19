@@ -1,6 +1,6 @@
 {
   "name": "@netosha/date-renderer",
-  "version": "1.1.6",
+  "version": "1.2.0",
   "description": "A package that prints the current date",
   "main": "index.js",
   "repository": "https://github.com/netosha/monorepo-test",
